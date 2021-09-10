@@ -1,0 +1,10 @@
+{
+  "short_name": "AgroPro React challenge",
+  "name": "AgroPro React challenge",
+  "icons": [
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

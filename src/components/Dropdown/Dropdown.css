@@ -1,0 +1,10 @@
+@media (max-width: 900px) {
+    .inputSelect{
+        width: 100% !important;
+    }
+  }
+.inputSelect{
+    width: 40%;
+    background-color: white;
+}
+

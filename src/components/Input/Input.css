@@ -1,0 +1,9 @@
+@media (max-width: 900px) {
+    .inputComment{
+        width: 100% !important;
+    }
+  }
+.inputComment{
+    width: 40vw;
+    background-color: white;
+}

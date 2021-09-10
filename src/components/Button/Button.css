@@ -1,0 +1,16 @@
+@media (max-width: 800px) {
+    
+    button{
+        margin-top: 5px!important;
+    }
+  }
+
+button{
+    margin-top: 40px;
+    color: white;
+    background-color: #00A79D;
+    width: 90px;
+    height: 40px;
+    border-radius: 30px;
+    border: transparent;
+}

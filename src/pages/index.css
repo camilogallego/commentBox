@@ -1,0 +1,44 @@
+@media (max-width: 800px) {
+  h1{
+    font-size: 1.5rem;
+  }
+  
+  p{
+    font-size: small!important;
+  }
+  .buttonComent{
+    flex-direction: column !important;
+}
+.container{
+  width: 100%!important;
+}
+}
+
+h1 {
+  margin: 0px 0px 30px 0px;
+  color: white;
+}
+p {
+  margin: 5px;
+}
+
+.container {
+  width: 60vw;
+  height: 70vh;
+  background-color: #e5edf2;
+}
+.containerPaper {
+  margin: 10px;
+  padding: 5px;
+  height: 10vh;
+}
+.buttonComent {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.containerTable {
+  margin-top: 30px;
+}
+
